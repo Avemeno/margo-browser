@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2021",
+    "preserveConstEnums": false,
+    "sourceMap": true,
+    "inlineSources": true
+  },
+  "types": ["./typings/shared.d.ts", "./typings/ni.d.ts", "./typings/si.d.ts"]
+}
